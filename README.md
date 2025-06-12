@@ -2,7 +2,7 @@
 
 # Hello!
 
-I'm Hema Varshita, and I find myself diving deep into the fascinating realms of Machine Learning (ML) and Data Science as a graduate student at **University of Washington, Seattle**. My journey began with a Bachelor's degree in EE/ML from IIT Hyderabad, and it's been quite a ride since then. 
+I'm Hemanth Raju Koneti, and I find myself diving deep into the fascinating realms of Machine Learning (ML) and Data Science as a graduate student at **University of Washington, Seattle**. My journey began with a Bachelor's degree in EE/ML from IIT Hyderabad, and it's been quite a ride since then. 
 
 I recently concluded my internship at **Amazon Web Services** as an **SWE (ML) Intern** where I got to dive into  ML systems and workflows, optimizing serverless model training for AWS's Recommender Systems and making deployments smoother! 
 
